@@ -8,7 +8,7 @@
 
 ---
 
-## Features
+## ✨ Features
 
 * Create/Delete/List groups
 * Add/Delete/List/Clear tasks
@@ -23,7 +23,7 @@
 
 ---
 
-## Installation & Build
+## 🚀 Installation & Build
 
 ### 1. Install Go
 
@@ -153,7 +153,7 @@ combo/
 
 ---
 
-## Data Storage
+## 💾 Data Storage
 
 * Tasks are stored in a JSON file located in the user directory (customizable)
 * Each group contains a list of tasks
