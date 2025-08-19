@@ -1,3 +1,7 @@
+<a href="https://github.com/bryantaolong/combo">
+  <img width="60px" height="60px" src="./assets/logo.png" align="right"  alt=""/>
+</a>
+
 # Combo CLI
 
 **Combo** is a command-line To Do application developed in **Go**, supporting group management, task management, marking tasks as done, and color-coded output for easy task status distinction.
