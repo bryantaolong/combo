@@ -2,7 +2,7 @@
   <img width="60px" height="60px" src="./assets/logo.png" align="right"  alt=""/>
 </a>
 
-# Combo CLI
+# Combo
 
 **Combo** 是一个基于 **Go** 语言开发的命令行 To Do 应用，支持分组管理、任务管理、完成状态标记，并提供彩色输出，方便区分任务状态。
 
